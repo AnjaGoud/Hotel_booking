@@ -1,1 +1,6 @@
-HI this is Hotel Portal 
+HI this is Hotel Portal
+
+
+this is second commit from the git bash  
+ hit 
+
